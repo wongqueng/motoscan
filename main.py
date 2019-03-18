@@ -162,4 +162,3 @@ if __name__ == '__main__':
     mainWindow.setMinimumSize(720, 480)
     mainWindow.show()
     sys.exit(app.exec_())
-    # scan.download("ipz-214xxx",'magnet:?xt=urn:btih:d66af25579e25a06847cae2b0f1b145082c50679&dn=%5B7sht.me%5DIPX-214-c')
