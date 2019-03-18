@@ -135,7 +135,7 @@ class HelloPyQt(QtGui.QWidget):
         if(bango == ""):
             msgBox = QtGui.QMessageBox()
             msgBox.setWindowTitle(u'提示')
-            msgBox.setText(u"\n请输入番号")
+            msgBox.setText(u"\n请输入搜索信息")
             msgBox.setWindowIcon(QtGui.QIcon(r':/0102.png'))
             msgBox.exec_()
             return
